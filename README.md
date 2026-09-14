@@ -24,3 +24,4 @@ The automated pipeline creates release reports and learning drafts. A separate i
 Only after a following human-in-the-loop learning process and explicit finalization is approved content added to `learning/` and `review-cards/`.
 
 As a result, the permanent learning resources represent reviewed and personalized knowledge rather than automatically generated documentation.
+
