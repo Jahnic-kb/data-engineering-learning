@@ -7,7 +7,7 @@
 
 This repository supports a recurring release-intelligence and personalized learning pipeline for data engineering and related technical topics.
 
-The pipeline monitors relevant changes in R, Python, Azure, APIs, databases, deployment, observability, AI systems, and adjacent areas. Important developments are translated into structured learning workshops and, after human review, into a cumulative knowledge base tailored to the learner, with a focus on long-term retention and building strong technical intuition.
+The pipeline monitors relevant changes in R, Python, Azure, APIs, databases, deployment, observability, AI systems, and adjacent areas. Important developments are translated into structured learning workshops and, after human review, into a cumulative knowledge base, with a focus on long-term retention and building strong technical intuition.
 
 ## Repository structure
 
@@ -19,8 +19,8 @@ The pipeline monitors relevant changes in R, Python, Azure, APIs, databases, dep
 
 ## Process
 
-The automated pipeline creates release reports and learning drafts. A separate interactive Learning Coach then works through the proposed material with the learner.
+The automated pipeline creates release reports and learning drafts. A separate interactive Learning Coach then works through the proposed material.
 
-Only after this human-in-the-loop learning process and explicit finalization is approved content added to `learning/` and `review-cards/`.
+Only after a following human-in-the-loop learning process and explicit finalization is approved content added to `learning/` and `review-cards/`.
 
 As a result, the permanent learning resources represent reviewed and personalized knowledge rather than automatically generated documentation.
