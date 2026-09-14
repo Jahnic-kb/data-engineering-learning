@@ -18,15 +18,14 @@ The pipeline monitors relevant changes in R, Python, Azure, APIs, databases, dep
 - `review-cards/` — concise active-recall material corresponding to the finalized learning topics.
 
 ## Process
+<p align="center">
+  <img src="./assets/mermaid-diagram.png"
+       alt="Learning pipeline"
+       width="850">
+</p>
 
 The automated pipeline creates release reports and learning drafts. A separate interactive Learning Coach then works through the proposed material.
 
 Only after a following human-in-the-loop learning process and explicit finalization is approved content added to `learning/` and `review-cards/`.
 
 As a result, the permanent learning resources represent reviewed and personalized knowledge rather than automatically generated documentation.
-
-<p align="center">
-  <img src="./assets/mermaid-diagram.png"
-       alt="Learning pipeline"
-       width="850">
-</p>
