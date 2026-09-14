@@ -1,9 +1,9 @@
 # Data Engineering Learning Resource
 
 ![Status](https://img.shields.io/badge/status-active-success)
-![Learning](https://img.shields.io/badge/focus-data%20engineering-blue)
 ![Knowledge Base](https://img.shields.io/badge/knowledge%20base-Markdown-lightgrey)
-![Retention](https://img.shields.io/badge/focus-long--term%20retention-orange)
+![Learning](https://img.shields.io/badge/focus-data%20engineering-blue)
+![Retention](https://img.shields.io/badge/learning-long--term%20retention-orange)
 
 This repository supports a recurring release-intelligence and personalized learning pipeline for data engineering and related technical topics.
 
