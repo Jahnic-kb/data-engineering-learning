@@ -25,3 +25,6 @@ Only after a following human-in-the-loop learning process and explicit finalizat
 
 As a result, the permanent learning resources represent reviewed and personalized knowledge rather than automatically generated documentation.
 
+<p align="center">
+  <img src="assets/learning-pipeline.png" alt="Learning pipeline" width="800">
+</p>
